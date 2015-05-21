@@ -16,6 +16,7 @@ body {
 .navbar-default .navbar-nav>li>a {color: #333333;}
 .navbar-default .navbar-brand {color: #333333;}
 .navbar-default .navbar-toggle {border-color: #ffffff;}
+.navbar-default .navbar-toggle .icon-bar {background-color: black;}
 #portfolio {background-color: #D8D8D8;}
 
 
