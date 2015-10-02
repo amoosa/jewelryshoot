@@ -18,6 +18,7 @@ body {
 .navbar-default .navbar-toggle {border-color: #ffffff;}
 .navbar-default .navbar-toggle .icon-bar {background-color: black;}
 #portfolio {background-color: #D8D8D8;}
+.f_lato {font-family: 'Lato', sans-serif;}
 
 
 p {
@@ -45,7 +46,7 @@ h5,
 h6 {
     /* font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif; */
     font-family: 'Lato', sans-serif;
-    line-height: 150%;
+    line-height: 130%;
 }
 
 hr.star-light,
