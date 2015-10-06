@@ -19,6 +19,7 @@ body {
 .navbar-default .navbar-toggle .icon-bar {background-color: black;}
 #portfolio {background-color: #D8D8D8;}
 .f_lato {font-family: 'Lato', sans-serif;}
+.orange {color: orange;}
 
 
 p {
@@ -37,6 +38,8 @@ a.active {
     outline: 0;
     color: blue;
 }
+
+h1 {font-size: 34px;}
 
 h1,
 h2,
