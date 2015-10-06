@@ -21,6 +21,10 @@ body {
 .f_lato {font-family: 'Lato', sans-serif;}
 .orange {color: orange;}
 
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #fff;
+}
+
 
 p {
     font-size: 20px;
