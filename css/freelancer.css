@@ -9,6 +9,7 @@ body {
 }
 
 .left-al {text-align: left;}
+.right-al {text-align: right;}
 .center-al {text-align: center;}
 .portfoliobtn {text-align: center; background-color: green; border: green;}
 .contactbtn {text-align: center; background-color: green; border: green;}
