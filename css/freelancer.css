@@ -21,7 +21,7 @@ body {
 #portfolio {background-color: #D8D8D8;}
 .f_lato {font-family: 'Lato', sans-serif;}
 .orange {color: orange;}
-.guarantee {background: #088A08; color: #ffffff; padding: 3px;}
+.guarantee {background: #088A08; color: #ffffff; padding: 2px;}
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
     background-color: #fff;
