@@ -175,6 +175,8 @@ header .intro-text .skills {
     font-weight: 700;
 }
 
+.l_font {font-family: 'Raleway', sans-serif;}
+
 .navbar a:focus {
     outline: 0;
 }
