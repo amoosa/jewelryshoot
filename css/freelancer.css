@@ -19,7 +19,7 @@ body {
 .guarantee {color: #088A08;}
 
 .navbar-default {background-color: #ffffff;}
-.navbar-default .navbar-nav>li>a {color: #333333; padding-top:19.5px; padding-bottom:19.5px;}
+.navbar-default .navbar-nav>li>a {color: #333333; padding-top:19.5px; padding-bottom:19.5px; font-size: 14px;}
 .navbar-default .navbar-toggle {border-color: #ffffff;}
 .navbar-default .navbar-toggle .icon-bar {background-color: black;}
 .navbar-default .navbar-brand {
@@ -179,7 +179,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        font-size: 1.75em;
     }
 }
 
