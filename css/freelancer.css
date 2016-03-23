@@ -35,7 +35,7 @@ body {
 .seventy {width:70% !important;}
 
 header .container {
-    padding-top: 125px !important;
+    padding-top: 75px !important;
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
@@ -60,7 +60,7 @@ a.active {
     color: blue;
 }
 
-h1 {font-size: 34px;}
+h1 {font-size: 30px;}
 
 h1,
 h2,
@@ -70,7 +70,7 @@ h5,
 h6 {
     /* font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif; */
     font-family: 'Lato', sans-serif;
-    line-height: 130%;
+    line-height: 120%;
 }
 
 hr.star-light,
