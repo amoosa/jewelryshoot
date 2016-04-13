@@ -17,6 +17,7 @@ body {
 .f_lato {font-family: 'Lato', sans-serif;}
 .orange {color: orange;}
 .guarantee {color: #088A08;}
+.black {color: #000000;}
 .slab {font-family: 'Roboto Slab', serif;}
 
 .navbar-default {background-color: #ffffff;}
@@ -33,6 +34,9 @@ body {
     vertical-align: middle;
 }
 .seventy {width:70% !important;}
+
+.carousel-control.right {background-image: none;}
+.carousel-control.left {background-image: none;}
 
 header .container {
     padding-top: 75px !important;
